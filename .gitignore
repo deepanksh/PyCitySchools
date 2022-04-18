@@ -1,3 +1,16 @@
+# Adding config.py file.
+config.py
+
+# Adding Addition files
+API_practice.ipynb
+
+# Adding additional files.
+Traversing JSONs.ipynb
+try-except.ipynb
+random_numbers.ipynb
+Linear Regression.ipynb
+Google_Nearby_Search.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
